@@ -1,0 +1,39 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/ALU_64_Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_64_bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/ALU_Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Control_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Data_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/EX_MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_Mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/Forwarding_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Forwarding_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/ID_EX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/IF_ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Immediate_Data_Generator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Immediate_Data_Generator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Instruction_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Instruction_Parser.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Parser
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/MEM_WB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mem_WB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/Mux3x1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux3by1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/Pipelined_Processor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pipelined_Processor
+INFO: [VRFC 10-2458] undeclared symbol EX_Mem_RD, assumed default net type wire [C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/Pipelined_Processor.v:107]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Program_Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Program_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Register_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

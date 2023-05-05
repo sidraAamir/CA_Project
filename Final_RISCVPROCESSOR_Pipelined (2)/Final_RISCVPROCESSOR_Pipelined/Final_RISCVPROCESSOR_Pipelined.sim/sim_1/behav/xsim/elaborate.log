@@ -1,0 +1,35 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilnix/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto c31dc0bf0c7c4e01b6f59ecc3f8ee3f2 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_behav xil_defaultlib.tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 64 differs from formal bit length 1 for port 'SEL' [C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/Pipelined_Processor.v:71]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'EX_Mem_rd' [C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/Pipelined_Processor.v:107]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/yoush/OneDrive/Desktop/Final_RISCVPROCESSOR_Pipelined/Final_RISCVPROCESSOR_Pipelined.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Program_Counter
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.Mux
+Compiling module xil_defaultlib.mux3by1
+Compiling module xil_defaultlib.Instruction_Memory
+Compiling module xil_defaultlib.Instruction_Parser
+Compiling module xil_defaultlib.Control_Unit
+Compiling module xil_defaultlib.Register_File
+Compiling module xil_defaultlib.Immediate_Data_Generator
+Compiling module xil_defaultlib.ALU_Control
+Compiling module xil_defaultlib.ALU_64_bit
+Compiling module xil_defaultlib.Data_Memory
+Compiling module xil_defaultlib.IF_ID
+Compiling module xil_defaultlib.ID_EX
+Compiling module xil_defaultlib.Forwarding_Unit
+Compiling module xil_defaultlib.EX_Mem
+Compiling module xil_defaultlib.Mem_WB
+Compiling module xil_defaultlib.Pipelined_Processor
+Compiling module xil_defaultlib.tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_behav

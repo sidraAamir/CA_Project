@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri May  5 17:33:52 2023
+# Process ID: 12412
+# Current directory: E:/CA project/task3final
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2572 E:\CA project\task3final\task3final.xpr
+# Log file: E:/CA project/task3final/vivado.log
+# Journal file: E:/CA project/task3final\vivado.jou
+#----------------------------------------------------------ststart_guopen_project {E:/CA project/task3final/task3final.xpr}
+update_compile_order -fileset sources_1
+1

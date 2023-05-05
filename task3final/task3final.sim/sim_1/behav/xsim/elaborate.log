@@ -1,0 +1,35 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 7fb58df61a6e4333a0c4c6cd96b1ab8b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_task3_behav xil_defaultlib.tb_task3 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/Pc/Desktop/4 pm project ca run testing iqra rabia yosuahy sidra/task3final/task3final.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/Pc/Desktop/4 pm project ca run testing iqra rabia yosuahy sidra/task3final/task3final.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux_2by1
+Compiling module xil_defaultlib.Program_Counter
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.Instruction_Memory
+Compiling module xil_defaultlib.IF_ID
+Compiling module xil_defaultlib.Hazard_Detection
+Compiling module xil_defaultlib.Instruction_Parser
+Compiling module xil_defaultlib.Control_Unit
+Compiling module xil_defaultlib.Register_File
+Compiling module xil_defaultlib.imm_data_generator
+Compiling module xil_defaultlib.ID_EX
+Compiling module xil_defaultlib.ALU_Control
+Compiling module xil_defaultlib.mux_3by1
+Compiling module xil_defaultlib.ALU_64_bit
+Compiling module xil_defaultlib.Forwarding_Unit
+Compiling module xil_defaultlib.EX_MEM
+Compiling module xil_defaultlib.Branch_Control
+Compiling module xil_defaultlib.Data_Memory
+Compiling module xil_defaultlib.MEM_WB
+Compiling module xil_defaultlib.Pipelined_Processor_Task_3
+Compiling module xil_defaultlib.tb_task3
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_task3_behav

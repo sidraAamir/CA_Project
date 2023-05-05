@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/ALU_64_Bit.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/ALU_Control.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Adder.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Control_Unit.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Data_Memory.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/EX_MEM.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/Forwarding_Unit.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/ID_EX.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/IF_ID.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Immediate_Data_Generator.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Instruction_Memory.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Instruction_Parser.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/MEM_WB.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Mux.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/Mux3x1.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/new/Pipelined_Processor.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Program_Counter.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sources_1/imports/new/Register_File.v" \
+"../../../../Final_RISCVPROCESSOR_Pipelined.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

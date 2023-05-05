@@ -1,0 +1,10 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Instruction =00000000100000000000000010010011 RS1 = 0 RS2 = 0 RD = 0 Result =                   0 ForwardA =0 ForwardB =0
+Instruction =00000000100000000000000010010011 RS1 = 0 RS2 = 8 RD = 1 Result =                   0 ForwardA =0 ForwardB =0
+Instruction =00000000000000001000001000010011 RS1 = 0 RS2 = 8 RD = 1 Result =                   8 ForwardA =0 ForwardB =0
+Instruction =xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RS1 = 1 RS2 = 0 RD = 4 Result =                   8 ForwardA =0 ForwardB =0
+Instruction =xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RS1 = x RS2 = x RD = x Result =                   8 ForwardA =2 ForwardB =X
+Instruction =xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RS1 = x RS2 = x RD = x Result =                   x ForwardA =x ForwardB =x
+Instruction =xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RS1 = x RS2 = x RD = x Result =                   x ForwardA =X ForwardB =X
+Instruction =xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RS1 = x RS2 = x RD = x Result =                   x ForwardA =0 ForwardB =0
